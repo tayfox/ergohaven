@@ -1,4 +1,4 @@
-layout with alt+f4, toggle layer4, scroll lock and add button in game layer
+Add RuEn switch on layer1 and add RuEn symbols to layer2
 
 # Layer 0
 ![Layout0](images/layout0.png)
@@ -14,3 +14,4 @@ layout with alt+f4, toggle layer4, scroll lock and add button in game layer
 
 # Layout 4
 ![Layout4](images/layout4.png)
+
