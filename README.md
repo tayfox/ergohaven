@@ -1,6 +1,4 @@
-Default layout
-
-with game layer
+layout with alt+f4, toggle layer4, scroll lock and add button in game layer
 
 # Layer 0
 ![Layout0](images/layout0.png)
