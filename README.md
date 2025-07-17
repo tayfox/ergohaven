@@ -1,8 +1,8 @@
 Default layout
 
-with game layout
+with game layer
 
-# Layout 0
+# Layer 0
 ![Layout0](images/layout0.png)
 
 # Layout 1
